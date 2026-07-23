@@ -1,0 +1,22 @@
+CENTINELA SEGURIDAD - SITIO WEB
+
+Archivos:
+- index.html
+- css/style.css
+- js/script.js
+- img/logo-centinela.png
+
+Publicación en GitHub Pages:
+1. Descomprimir el ZIP.
+2. En el repositorio de GitHub, usar Add file > Upload files.
+3. Subir TODO el contenido manteniendo las carpetas css, js e img.
+4. Confirmar con Commit changes.
+5. GitHub Pages actualizará el sitio automáticamente.
+
+WhatsApp configurado:
++54 9 3484 456595
+
+Zona:
+Escobar, Buenos Aires.
+Trabajos en otras provincias.
+Horario: lunes a viernes de 9:00 a 17:00.
